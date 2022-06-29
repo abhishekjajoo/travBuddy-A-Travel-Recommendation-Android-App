@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">travBuddy - A Travel Recommender</string>
+    <string name="select">Select Location</string>
+</resources>
